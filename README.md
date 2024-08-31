@@ -1,5 +1,5 @@
 ## **Kanga Clone: A Recipe Management Application**
-
+Try it out [here](http://kangacook-client.s3-website-us-west-2.amazonaws.com)
 Kanga Clone is a full-stack application designed for seamless recipe management, leveraging AWS services for scalability and ease of deployment.
 Technologies Used:
 
